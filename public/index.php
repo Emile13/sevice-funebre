@@ -1,22 +1,7 @@
 <!DOCTYPE html>
 <html lang="fr">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Nom de votre entreprise</title>
-    <link rel="stylesheet" href="styles.css">
-</head>
+<?php include('../modeles/linkheader.php'); ?>
 <body>
-    <header>
-        <nav>
-            <ul>
-                <li><a href="#">Accueil</a></li>
-                <li><a href="#">Services</a></li>
-                <li><a href="#">À propos</a></li>
-                <li><a href="#">Contact</a></li>
-            </ul>
-        </nav>
-    </header>
 
     <section class="hero">
         <h1>Des services funéraires dignes et respectueux</h1>
@@ -36,7 +21,7 @@
 
     <section class="about">
         <h2>À propos de nous</h2>
-        <p>Nous sommes une équipe dévouée, prête à vous soutenir dans ce moment difficile.</p>
+        <p class="btn btn-bd-primary">Nous sommes une équipe dévouée, prête à vous soutenir dans ce moment difficile.</p>
     </section>
 
     <section class="contact">
@@ -46,8 +31,5 @@
         <a href="mailto:info@votreentreprise.com">Email : info@votreentreprise.com</a>
     </section>
 
-    <footer>
-        <p>&copy; 2023 Votre Entreprise | Tous droits réservés</p>
-    </footer>
 </body>
 </html>
