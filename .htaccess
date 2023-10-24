@@ -1,5 +1,1 @@
 RewriteEngine On
-
-RewriteBase /public
-RewriteRule ^(index.php) public/index.php
-#RewriteRule ^(.*) public/index.php
