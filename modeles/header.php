@@ -18,7 +18,6 @@
                     <div class="dropdown-menu" style="background-color:#FEF1EA;">
                       <a class="dropdown-item" href="#">Action</a>
                       <a class="dropdown-item" href="#">Another action</a>
-                      <div class="dropdown-divider"></div>
                       <a class="dropdown-item" href="#">Something else here</a>
                     </div>
                   </li>
