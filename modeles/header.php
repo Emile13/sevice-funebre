@@ -33,7 +33,7 @@
                             </svg> +33 85 29 63 96</a>
                             </div>
                             <div class="col-md-7">
-                                <button class="btn btn-success my-2 my-sm-0" style="background-color: #0F7778;border: #0F7778;" type="submit">Demander un devis</button>
+                                <button class="btn btn-success my-2 my-sm-0" style="background-color: #0F7778;border: #0F7778;border-radius: 15px;" type="submit">Demander un devis</button>
                             </div>
                         
                     </ul>                  

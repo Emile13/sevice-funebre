@@ -23,7 +23,7 @@
 				      <div class="card-body">
 				        <h5 class="card-title" style="color:#0F7778;">Title tarifs</h5>
 				        <p class="card-text" style="font-size:9pt;">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-				        <a class="card-link" style="text-align:left;"><button class="btn btn-success" type="submit" style="font-size:9pt;background-color: #0F7778;border: #0F7778;">Detaille</button></a>
+				        <a class="card-link" style="text-align:left;"><button class="btn btn-success" type="submit" style="font-size:9pt;background-color: #0F7778;border: #0F7778;border-radius: 15px;">Detaille</button></a>
     					<a class="card-link" style="text-align:right;">A-partir de <strong style="color:#0F7778;">3000€</strong></a>
 				      </div>
 				    </div>
@@ -38,7 +38,7 @@
 				      <div class="card-body">
 				        <h5 class="card-title" style="color:#0F7778;">Title tarifs</h5>
 				        <p class="card-text" style="font-size:9pt;">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-				        <a class="card-link" style="text-align:left;"><button class="btn btn-success" type="submit" style="font-size:9pt;background-color: #0F7778;border: #0F7778;">Detaille</button></a>
+				        <a class="card-link" style="text-align:left;"><button class="btn btn-success" type="submit" style="font-size:9pt;background-color: #0F7778;border: #0F7778;border-radius: 15px;">Detaille</button></a>
     					<a class="card-link" style="text-align:right;">A-partir de <strong style="color:#0F7778;">3000€</strong></a>
 				      </div>
 				    </div>
@@ -53,7 +53,7 @@
 				      <div class="card-body">
 				        <h5 class="card-title" style="color:#0F7778;">Title tarifs</h5>
 				        <p class="card-text" style="font-size:9pt;">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-				        <a class="card-link" style="text-align:left;"><button class="btn btn-success" type="submit" style="font-size:9pt;background-color: #0F7778;border: #0F7778;">Detaille</button></a>
+				        <a class="card-link" style="text-align:left;"><button class="btn btn-success" type="submit" style="font-size:9pt;background-color: #0F7778;border: #0F7778;border-radius: 15px;">Detaille</button></a>
     					<a class="card-link" style="text-align:right;">A-partir de <strong style="color:#0F7778;">3000€</strong></a>
 				      </div>
 				    </div>
@@ -68,7 +68,7 @@
 				      <div class="card-body">
 				        <h5 class="card-title" style="color:#0F7778;">Title tarifs</h5>
 				        <p class="card-text" style="font-size:9pt;">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-				        <a class="card-link" style="text-align:left;"><button class="btn btn-success" type="submit" style="font-size:9pt;background-color: #0F7778;border: #0F7778;">Detaille</button></a>
+				        <a class="card-link" style="text-align:left;"><button class="btn btn-success" type="submit" style="font-size:9pt;background-color: #0F7778;border: #0F7778;border-radius: 15px;">Detaille</button></a>
     					<a class="card-link" style="text-align:right;">A-partir de <strong style="color:#0F7778;">3000€</strong></a>
 				      </div>
 				    </div>

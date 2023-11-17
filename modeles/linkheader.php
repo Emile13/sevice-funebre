@@ -26,6 +26,7 @@
         }
         btn-success{
             display: block;
+            border-radius: 15px!important;
         }
         btn-success:hover{
             background-color: #0F7778A3!important;
