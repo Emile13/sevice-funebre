@@ -4,3 +4,6 @@
 ul li{
 	list-style: none;
 }
+body{
+	color: gray!important;
+}
