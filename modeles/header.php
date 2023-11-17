@@ -1,4 +1,4 @@
-<header style="position:fixed;width: 100%;z-index: 1;">
+<header style="position:fixed;width: 100%;z-index: 1;font-size: 12pt;">
         <nav class="navbar navbar-expand-lg navbar-light bg-light" style="background-color: #FEF1EA!important;box-shadow: 10px 10px 49px -9px rgba(0,0,0,0.27);
 -webkit-box-shadow: 10px 10px 49px -9px rgba(0,0,0,0.27);-moz-box-shadow: 10px 10px 49px -9px rgba(0,0,0,0.27);">
         <div class="container" style="line-height: 50px;">
@@ -16,9 +16,10 @@
                       Nos services
                     </a>
                     <div class="dropdown-menu" style="background-color:#FEF1EA;">
-                      <a class="dropdown-item" href="#">Action</a>
-                      <a class="dropdown-item" href="#">Another action</a>
-                      <a class="dropdown-item" href="#">Something else here</a>
+                      <a class="dropdown-item" href="#">Obsèques</a>
+                      <a class="dropdown-item" href="#">Rapatriement</a>
+                      <a class="dropdown-item" href="#">Monument funeraire</a>
+                      <a class="dropdown-item" href="#">Cerceuille</a>
                     </div>
                   </li>
                   <li class="nav-item">

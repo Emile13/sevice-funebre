@@ -21,8 +21,11 @@
          </div>
     </div>
 </section>
-<?php include('public/nos-servis.php');?>
-<?php include('public/tarifs.php');?>
-<?php include('modeles/footer.php');?>
+<?php 
+include('public/nos-servis.php');
+include('public/tarifs.php');
+include('public/avis.php');
+include('modeles/footer.php');
+?>
 </body>
 </html>
