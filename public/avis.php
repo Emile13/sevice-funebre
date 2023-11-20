@@ -52,7 +52,7 @@
         </div>
         <style>
     .swiper {
-      width: 240px;
+      width: 350px;
     }
 
     .swiper-slide {
